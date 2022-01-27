@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="97px" height="108px" viewBox="0 0 97 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Countdown</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#AB2DFD" offset="0%"></stop>
+            <stop stop-color="#7214FA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Illustrations-/-Dark-/-Clock-w-Countdown-(Big)" transform="translate(-79.000000, -10.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Icon" transform="translate(64.000000, 0.000000)">
+                <g id="Countdown" transform="translate(15.000000, 10.000000)">
+                    <path d="M57.4814815,11.6712 L57.4814815,3.6 L59.2777778,3.6 C60.2693333,3.6 61.0740741,2.7936 61.0740741,1.8 C61.0740741,0.8064 60.2693333,0 59.2777778,0 L37.7222222,0 C36.7306667,0 35.9259259,0.8064 35.9259259,1.8 C35.9259259,2.7936 36.7306667,3.6 37.7222222,3.6 L39.5185185,3.6 L39.5185185,11.6712 C17.054037,15.9084 0,35.6832 0,59.4 C0,86.1984 21.7567407,108 48.5,108 C75.2432593,108 97,86.1984 97,59.4 C97,35.6796 79.945963,15.9048 57.4814815,11.6712 Z M49,104 C24.1852,104 4,83.8148 4,59 C4,34.1852 24.1852,14 49,14 C73.8148,14 94,34.1852 94,59 C94,83.8148 73.8148,104 49,104 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
