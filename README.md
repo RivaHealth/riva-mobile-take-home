@@ -6,7 +6,7 @@ Read more about Riva's mission at [rivahealth.com](https://www.rivahealth.com). 
 
 ## What do I do?
 
-Please follow the directions in the `Mobile Challenge Spec.pdf` file.
+Please follow the directions in the `Mobile Challenge Spec.pdf` file, and note that there are mocks (designs + data + assets) in the folders here as well you can use.
 
 ### Important notes
 
