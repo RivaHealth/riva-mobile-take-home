@@ -2,7 +2,7 @@
 
 Welcome to the take home project for interviewing with Riva's mobile team.
 
-Read more about Riva's mission at [www.rivahealth.com](www.rivahealth.com). We're led by the cofounder of Siri and supported by world class investors and advisors.
+Read more about Riva's mission at [https://www.rivahealth.com](rivahealth.com). We're led by the cofounder of Siri and supported by world class investors and advisors.
 
 ## What do I do?
 
